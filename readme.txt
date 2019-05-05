@@ -20,8 +20,8 @@ The plugin supports EAN, GTIN and UPC barcodes.
 
 == Installation ==
 
-1. Simply upload the file ean-barcode.php to your `/wp-content/plugins/` directory, or install the plugin or let WordPress install it there directly.
-1. Activate the plugin through the 'Plugins' screen in WordPress
+*. Upload the file ean-barcode.php to your `/wp-content/plugins/` directory, or let WordPress install it there directly.
+*. Activate the plugin through the 'Plugins' screen in WordPress.
 
 
 == Example ==
